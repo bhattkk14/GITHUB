@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welcome to My GitHub Project</h1>
+<p>This is a simple webpage created for Git practice.</p>
+
+<script src="script.js"></script>
+</body>
+</html>
