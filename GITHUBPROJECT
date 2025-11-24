@@ -1,0 +1,28 @@
+mkdir my-github-project
+cd my-github-project
+
+echo "# My GitHub Project" > README.md
+
+echo "<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Project</title>
+    <link rel='stylesheet' href='style.css'>
+</head>
+<body>
+<h1>Welcome to My GitHub Project</h1>
+<p>This is a simple webpage created for Git practice.</p>
+<script src='script.js'></script>
+</body>
+</html>" > index.html
+
+echo "body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #333;
+}" > style.css
+
+echo "console.log('Hello from script.js!');" > script.js
