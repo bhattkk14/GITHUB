@@ -8,4 +8,4 @@ This is a simple project created for learning Git and GitHub.
 - script.js
 
 ## Author
-Your Name
+BHATT KEYA
